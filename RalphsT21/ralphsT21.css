@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url(helloCoffee.jpg);
+    background-size:auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+        
+}
+
+.container {
+    padding-bottom: 0px;
+}
+
+.jumboron .header h1 p {
+    color: beige;
+}
